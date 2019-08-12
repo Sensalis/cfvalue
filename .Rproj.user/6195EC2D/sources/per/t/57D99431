@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564760773400.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3675449627",
+    "id" : "57D99431",
+    "lastKnownWriteTime" : 1565441541,
+    "last_content_update" : 1565441541250,
+    "path" : "~/GitHub/cfvalue/R/xnpv.R",
+    "project_path" : "R/xnpv.R",
+    "properties" : {
+        "cursorPosition" : "7,28",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

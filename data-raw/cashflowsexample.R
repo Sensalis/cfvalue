@@ -1,0 +1,5 @@
+library(lubridate)
+library(plyr)
+cfdate <- ymd(c("2019-08-03", "2023-02-03", "2022-08-03", "2024-04-03", "2025-03-03"))
+cfamount <- c(-51000000, 30000000, 90000000, -22000000, 10000000)
+cashflows <- data.frame(cfdate, cfamount)
